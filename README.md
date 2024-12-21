@@ -32,8 +32,5 @@ The MarsCode Youth Training Camp is a free online technical training program org
 ## License
 MIT License
 
-## Acknowledgments
-Special thanks to ByteDance MarsCode team and all contributors who make this learning resource possible.
-
 ---
 *Note: This repository is maintained by the community and is not officially affiliated with ByteDance.*
