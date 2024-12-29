@@ -32,5 +32,9 @@ The MarsCode Youth Training Camp is a free online technical training program org
 ## License
 MIT License
 
+## 🙋‍♀ Author
+
+Created and maintained by [Chan Meng](https://github.com/ChanMeng666).
+
 ---
 *Note: This repository is maintained by the community and is not officially affiliated with ByteDance.*
