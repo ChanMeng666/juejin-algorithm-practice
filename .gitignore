@@ -1,0 +1,49 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.env
+.venv
+.Python
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+*.log
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.bak
+*.tmp
+*.temp 
+/venv
+/venv
