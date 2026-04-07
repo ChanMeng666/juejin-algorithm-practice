@@ -510,7 +510,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 🔗 **GitHub**: [ChanMeng666](https://github.com/ChanMeng666)
 - 💼 **LinkedIn**: [chanmeng666](https://www.linkedin.com/in/chanmeng666/)
 - 📧 **Email**: [chanmeng.dev@gmail.com](mailto:chanmeng.dev@gmail.com)
-- 🌐 **Portfolio**: [chanmeng.live](https://2d-portfolio-eta.vercel.app/)
+- 🌐 **Portfolio**: [chanmeng.org](https://chanmeng.org/)
 
 ---
 
